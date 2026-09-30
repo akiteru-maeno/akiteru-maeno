@@ -26,6 +26,8 @@ My work focuses on the practical workflow from specimen preparation and Micro-CT
 - Python
 - Git / GitHub
 - 3D printing
+  - Bambu Lab H2C Combo
+  - AMS 2 Pro / AMS HT
 
 ## Current Interests
 
